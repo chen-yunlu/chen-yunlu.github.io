@@ -1,9 +1,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Yunlu's Personal Page
+title: Yunlu Chen
 description: >- # this means to ignore newlines until "baseurl:"
-  Under construction....
 baseurl: "" # the subpath of the site
 url: "https://chen-yunlu.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
@@ -11,17 +10,18 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
-      slug: /
-    - name: Work
-    #- name: Blog
+    #- name: Home
+    #  slug: /
+    - name: Publications
+    - name: Teaching
+    - name: Misc.
 
 footer:
   show_powered_by: true
   contact:
-    - name: Email
-      value: yourmail aat domain.com
-      #link: mailto:yourmail@domain.com
+    # - name: Email
+    #   value:  yunluchen2026 (at) u (dot) northwestern (dot) edu
+    #   link: mailto:yourmail@domain.com
   #  - name: WeChat
   #    value: YourWeChatUsername
   #    link: "#"
