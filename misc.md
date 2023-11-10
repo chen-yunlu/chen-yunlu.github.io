@@ -20,12 +20,12 @@ Besides academics, I used to be the principal flutist of symphony orchestra and 
 
 <div style="text-align: center;">
     <img src="{{ "assets/img/1234.jpg" | absolute_url }}" alt="bay" class="post-pic" style="width: 500px; height: auto; border: 0;"/>
-    <p>Played Flute Concerto in D Major No.2 K.314 by Mozart</p>
+    <p>Played Flute Concerto in D Major No.2, K.314 by Mozart</p>
 </div>
 
 <div style="text-align: center;">
     <img src="{{ "assets/img/222.jpg" | absolute_url }}" alt="bay" class="post-pic" style="width: 500px; height: auto; border: 0;"/>
-    <p>Played Quartet for flute, viola, guitar and violoncello in G major, D.96 by Schubert</p>
+    <p>Played Quartet for Flute, Viola, Guitar and Cello in G major, D.96 by Schubert</p>
 </div>
 
 <br />
