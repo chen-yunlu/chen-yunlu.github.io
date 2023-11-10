@@ -15,5 +15,5 @@ sections:
 
   - section_title: Teaching Award
     items:
-    - description: Outstanding Teaching Assistant. Fall 2019
+    - description: Outstanding Teaching Assistant of Fudan University. Fall 2019
 ---
