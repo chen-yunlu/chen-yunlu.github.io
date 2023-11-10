@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: /misc.
+slug: /misc
 ---
 
 <!-- ---

@@ -14,7 +14,7 @@ header:
     #  slug: /
     - name: Publications
     - name: Teaching
-    - name: Misc.
+    - name: Misc
 
 footer:
   show_powered_by: true
