@@ -21,4 +21,3 @@ Before joining Northwestern, I received my master's degree in Statistics and bac
 </p>
 
 
----------------
