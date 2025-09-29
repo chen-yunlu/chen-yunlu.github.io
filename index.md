@@ -13,7 +13,7 @@ I am currently a fifth-year Ph.D. student in <a href="https://statistics.northwe
 
 
 <p>
-My research interests lie broadly at the interface of statistics, machine learning, and optimization. I am now working on inferring the low-dimensional structure of high-dimensional data and developing computationally aware algorithms in nonparametric problems.
+My research interests lie at the interface of statistics, machine learning, and bioinformatics, with the specific goal of understanding feature learning in neural networks and designing better architectures that balance prediction and interpretation especially for genomics applications.
 </p>
 
 <p>
